@@ -16,6 +16,7 @@ I’m building toward a career as a device technician, and I’ll add new guides
 | Guide | Steps | What you need |
 |---|---|---|
 | [Battery Replacement](guides/hp-chromebook-11-g6/battery-replacement.pdf) | 8 | Phillips #1 screwdriver, plastic opening pick, ESD-safe workspace |
+| [Screen Replacement](guides/hp-chromebook-11-g6/screen-replacement.pdf) | 8 | Phillips #1 screwdriver, plastic opening pick, ESD-safe workspace |
 
    ## Notes
    - These are personal-device repairs written from my own experience, not official HP documentation.
