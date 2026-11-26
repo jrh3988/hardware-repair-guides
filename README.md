@@ -2,6 +2,8 @@ Step-by-step hardware repair guides written for beginners, based on repairs I pe
 
 I’m building toward a career as a device technician, and I’ll add new guides and devices as I work on more repairs.
 
+AI Transparency: AI is used in my documents mainly to fix my spelling errors and to improve the lighting of my images. I work in a dark room and having AI adjust the lightning is very helpful for showing how I do my work.
+
 ## Guides
 
 ### HP EliteDesk 800 G6 Mini (65 W)
